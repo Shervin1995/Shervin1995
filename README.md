@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad-Amin Khani.
-- 👀 I’m interested in Data Visualization.
-- 🌱 I’m currently attracting investor for https://datavisualzier.ir
+- 👀 Interested in Data Visualization.
+- 🌱 Attracting investor for https://datavisualzier.ir
 - 💞️ https://www.linkedin.com/in/shervin1995/
 - 📫 khanim97@gmail.com | https://juniorfrontend.ir 
 
