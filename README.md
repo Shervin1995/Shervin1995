@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shervin1995
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mohammad-Amin Khani.
+- 👀 I’m interested in Data Visualization.
+- 🌱 I’m currently attracting investor for https://datavisualzier.ir
+- 💞️ https://www.linkedin.com/in/shervin1995/
+- 📫 khanim97@gmail.com | https://juniorfrontend.ir 
 
 <!---
 Shervin1995/Shervin1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
